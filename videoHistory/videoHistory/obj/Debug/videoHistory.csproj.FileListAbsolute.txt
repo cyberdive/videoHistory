@@ -1,0 +1,9 @@
+D:\git\videoHistory\videoHistory\videoHistory\bin\Debug\videoHistory.exe.config
+D:\git\videoHistory\videoHistory\videoHistory\bin\Debug\videoHistory.exe
+D:\git\videoHistory\videoHistory\videoHistory\bin\Debug\videoHistory.pdb
+D:\git\videoHistory\videoHistory\videoHistory\obj\Debug\videoHistory.csprojAssemblyReference.cache
+D:\git\videoHistory\videoHistory\videoHistory\obj\Debug\videoHistory.Form1.resources
+D:\git\videoHistory\videoHistory\videoHistory\obj\Debug\videoHistory.Properties.Resources.resources
+D:\git\videoHistory\videoHistory\videoHistory\obj\Debug\videoHistory.csproj.GenerateResource.cache
+D:\git\videoHistory\videoHistory\videoHistory\obj\Debug\videoHistory.exe
+D:\git\videoHistory\videoHistory\videoHistory\obj\Debug\videoHistory.pdb
